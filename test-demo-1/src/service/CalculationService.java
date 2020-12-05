@@ -6,4 +6,8 @@ public class CalculationService {
             a = -a;
         return a+b;
     }
+
+    public static void main(String[] args) {
+
+    }
 }
